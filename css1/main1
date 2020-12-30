@@ -1,0 +1,80 @@
+.body {
+  background: black; }
+
+.cection-4 .navbar1 {
+  width: 100%;
+  height: 79px;
+  background: #FCC400FF;
+  margin-top: 158px; }
+
+.cection-4 .navbar1 > h1 {
+  position: absolute;
+  margin-top: 12px;
+  margin-left: 128px;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 36px;
+  /* identical to box height */
+  letter-spacing: -0.15px;
+  color: #FFFFFF; }
+
+.cection-4 .row .card p {
+  margin-left: 48px;
+  margin-top: 22px;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  /* identical to box height, or 130% */
+  letter-spacing: 0.110345px;
+  color: #000000; }
+
+.cection-4 .row .card {
+  width: 160px;
+  height: 160px;
+  margin-top: 115px;
+  margin-left: 30px; }
+
+.cection-4 .row .card .img0 {
+  width: 58px;
+  height: 58px;
+  margin-top: 18px;
+  margin-left: 51px; }
+
+.cection-4 .row {
+  margin-left: 98px; }
+
+.cection-4 .row .card .img1 {
+  width: 58px;
+  height: 58px;
+  margin-top: 18px;
+  margin-left: 51px; }
+
+.cection-4 .row .card .img2 {
+  width: 58px;
+  height: 58px;
+  margin-top: 18px;
+  margin-left: 51px; }
+
+.cection-4 .row .card .img3 {
+  width: 58px;
+  height: 58px;
+  margin-top: 18px;
+  margin-left: 51px; }
+
+.cection-4 .row .card .img4 {
+  width: 58px;
+  height: 58px;
+  margin-top: 18px;
+  margin-left: 51px; }
+
+.cection-4 .row .card .img5 {
+  width: 58px;
+  height: 58px;
+  margin-top: 18px;
+  margin-left: 51px; }
+
+/*# sourceMappingURL=main1.map */

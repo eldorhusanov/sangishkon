@@ -2,90 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fbb89fb-0bd5-44de-8878-24ba297dac63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sangishkon/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/.idea/sass/main1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/.idea/untitled34.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/.sass-cache/f8a94d6c509c13a6037270944f1d2f76e4b8ca88/main1.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/jquery-3.3.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/bootstrap/js/src/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/css1/main1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/css1/main1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/css1/main1.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/css1/main1.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/FontsFree-Net-SFProDisplay-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/font1/SourceSansPro-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/001-device.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/005-speech-bubble (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/11).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/AS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/ERR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/FG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/RT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/Rectangle Copy 14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/Shape (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/Shape (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/Shape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/binary-code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/ee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/eye copy 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/img1/rerer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/scss/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/scss/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/scss/.idea/scss.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/scss/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/scss/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sangishkon/ssss.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssss.html" beforeDir="false" afterPath="$PROJECT_DIR$/ssss.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -96,8 +14,33 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/malumot.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ssss.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sangishkon" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ssss.html" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="8" />
@@ -115,8 +58,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="untitled34" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled34" type="462c0819:PsiDirectoryNode" />
+              <item name="sangishkon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sangishkon" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,6 +69,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -153,22 +97,27 @@
       <option name="presentableId" value="Default" />
       <updated>1609167100197</updated>
       <workItem from="1609167111836" duration="1755000" />
+      <workItem from="1610832683397" duration="791000" />
     </task>
+    <task id="LOCAL-00001">
+      <created>1610833279921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610833279921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1755000" />
+    <option name="totallyTimeSpent" value="2546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="24" width="1346" height="688" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3291367" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -176,6 +125,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3291367" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -183,5 +136,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/malumot.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

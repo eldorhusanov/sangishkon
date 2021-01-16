@@ -1,0 +1,16 @@
+Index: ssss.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ssss.html	(revision 054fbe7f77fd723fff6a32d870444aef4df54581)
++++ ssss.html	(date 1610832725743)
+@@ -5,6 +5,6 @@
+     <title>Title</title>
+ </head>
+ <body>
+-<h1>salom</h1>
++<h1>salomgvbghvgvghvghv</h1>
+ </body>
+ </html>
+\ No newline at end of file

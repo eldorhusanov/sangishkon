@@ -1,0 +1,2 @@
+# sangishkon
+bu mening loyxam
